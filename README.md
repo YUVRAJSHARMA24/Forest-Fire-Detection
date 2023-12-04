@@ -1,2 +1,4 @@
 # Forest-Fire-Detection
 Natural ecosystems and populated areas are both significantly at risk from forest fires, necessitating immediate and efficient mitigation measures. In response, this study introduces a novel approach that combines machine learning methods with wireless sensor networks (WSNs) to improve early detection and warning systems for forest fires. Our strategy entails setting up a network of sensor nodes across the forest to continually track important environmental factors including temperature, humidity, and smoke levels. A powerful machine learning algorithm that can differentiate between regular environmental fluctuations and the existence of a forest fire is then used to process the obtained data.
+
+![Screenshot (70)](https://github.com/YUVRAJSHARMA24/Forest-Fire-Detection/assets/90131774/5d3c9588-72c5-4ede-a747-9f50e5e158dc)
